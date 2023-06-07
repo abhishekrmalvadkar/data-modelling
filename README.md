@@ -1,1 +1,1 @@
-# data-modelling
+sales_fact.drawio.png: A retail company wants to track the sales data to understand customer buying habits and trends. It will have a sales fact table and customer, product                          and time as dimensional tables.
